@@ -1,7 +1,11 @@
 export const COLORS = {
     primary: '#262624',
     secondary: '#9DB2BE',
-    disabled : '#ccc'
+    disabled : '#ccc',
+    button_pressed:'#0066cc',
+    button_unpressed:'#0080ff',
+    result_text :'#F6AE2D',
+    button_text :'#fff',
 }; // color constants used throughout the app
 
 export const FONT_SIZES = {
@@ -17,6 +21,8 @@ export const APP_STRINGS = {
     next_button: 'Next Question',
     submit_button: 'Submit',
     restart_button: 'Restart Quiz',
-    result_title: 'Your Result',
-    result_subtitle: 'Based on your answers, we recommend the following soup:'
+    result_title: 'Your Restaurant Recommendation',
+    result_subtitle: 'Based on your quiz answers, we recommend',
+
+
 }; // string constants used throughout the app

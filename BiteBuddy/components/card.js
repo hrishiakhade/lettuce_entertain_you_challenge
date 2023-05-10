@@ -12,14 +12,31 @@ export const getQuestionText = (text) => {
 
 export const getButton = (isLastQuestion, handleNext, setOption, points) => {
     const buttonText = isLastQuestion ? APP_STRINGS.submit_button : APP_STRINGS.next_button;
+    const buttonColor = points ? COLORS.secondary : COLORS.disabled;
+    const buttonOpacity = points ? 1 : 0.6;
+
+    const handlePress = () => {
+        setOption();
+        handleNext(points);
+    };
+
     return (
-        <Pressable style={({ pressed }) => [{ opacity: pressed ? 0.9 : 1, backgroundColor: !points ? COLORS.disabled : COLORS.secondary }, styles.buttonStyle]}
-            onPress={() => { setOption(); handleNext(points); }}
-            disabled={!points} >
-            <Text style={[styles.buttonText, { opacity: !points ? 0.6 : 1 }]}>{buttonText?.toUpperCase()}</Text>
+        <Pressable
+            style={({ pressed }) => [{
+                opacity: pressed ? 0.9 : 1,
+                backgroundColor: buttonColor,
+                transform: [{ scale: pressed ? 0.95 : 1 }]
+            }, styles.buttonStyle]}
+            onPress={handlePress}
+            disabled={!points}
+        >
+            <Text style={[styles.buttonText, { opacity: buttonOpacity }]}>
+                {buttonText?.toUpperCase()}
+            </Text>
         </Pressable>
     );
-}
+};
+
 
 
 export const Cards = ({ questionData, isLastQuestion, handleNext }) => {
