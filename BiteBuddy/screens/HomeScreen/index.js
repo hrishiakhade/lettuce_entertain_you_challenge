@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ImageBackground, SafeAreaView, StyleSheet, View } from 'react-native';
+import { ImageBackground, StyleSheet, View } from 'react-native';
 import BackgroundImage from '../../assets/pattern.jpg';
 import { Cards } from '../../components/card';
 import { Header } from '../../components/header';
@@ -7,11 +7,10 @@ import { APP_STRINGS, COLORS } from '../../utils/constants';
 import { quizQuestions } from '../../utils/data.js';
 
 
-
 export const handleNext = (index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation) => {                  // seperate function for handleNext to make it easier to test
     setTotalPoints(totalpoints + points);
     if (index === questionData.length - 1) {
-        navigation.navigate('ResultScreen', { totalpoints: totalpoints+points });
+        navigation.navigate('ResultScreen', { totalpoints: totalpoints + points });
         setTotalPoints(0);
         setIndex(0);
     } else {
@@ -26,22 +25,20 @@ const HomeScreen = ({ navigation }) => {
 
 
     return (
-        <SafeAreaView style={styles.container}>
-            <ImageBackground
-                style={styles.imageContainer}
-                source={BackgroundImage}>
-                <View style={styles.imageContainer}>
-                    <Header title={APP_STRINGS.title} subtitle={APP_STRINGS.subtitle} />
-                    <Cards
-                        questionData={questionData[index]}
-                        isLastQuestion={index === questionData.length - 1}
-                        // handleNext={handleNext} 
-                        handleNext={(points) => handleNext(index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation)}
+        <ImageBackground
+            style={styles.imageContainer}
+            source={BackgroundImage}>
+            <View style={styles.imageContainer}>
+                <Header title={APP_STRINGS.title} subtitle={APP_STRINGS.subtitle} />
+                <Cards
+                    questionData={questionData[index]}
+                    isLastQuestion={index === questionData.length - 1}
+                    // handleNext={handleNext} 
+                    handleNext={(points) => handleNext(index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation)}
 
-                    />
-                </View>
-            </ImageBackground>
-        </SafeAreaView>
+                />
+            </View>
+        </ImageBackground>
     );
 }
 
