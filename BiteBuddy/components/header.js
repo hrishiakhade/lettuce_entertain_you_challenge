@@ -1,6 +1,6 @@
 import React from 'react';
-import { StyleSheet, Text, View, ImageBackground, SafeAreaView } from 'react-native';
-import { FONT_SIZES , COLORS } from '../utils/constants';
+import { StyleSheet, Text, View } from 'react-native';
+import { COLORS, FONT_SIZES } from '../utils/constants';
 
 export const Header = ({ title, subtitle }) => {
     return (
