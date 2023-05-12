@@ -1,11 +1,13 @@
 export const COLORS = {
     primary: '#262624',
     secondary: '#9DB2BE',
-    disabled : '#ccc',
-    button_pressed:'#0066cc',
-    button_unpressed:'#0080ff',
-    result_text :'#F6AE2D',
-    button_text :'#fff',
+    disabled: '#ccc',
+    button_pressed: '#0066cc',
+    button_unpressed: '#0080ff',
+    result_text: '#F6AE2D',
+    result_loading: '#FF7F00',
+    loading_indicator: '#42b0f5',
+    button_text: '#fff',
     black: '#000',
 }; // color constants used throughout the app
 
@@ -24,6 +26,7 @@ export const APP_STRINGS = {
     restart_button: 'Restart Quiz',
     result_title: 'Your Restaurant Recommendation',
     result_subtitle: 'Based on your quiz answers, we recommend',
+    loading_text: 'Infusing your taste buds\n with a personalized suggestion...'
 
 
 }; // string constants used throughout the app

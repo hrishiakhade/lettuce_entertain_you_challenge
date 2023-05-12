@@ -15,7 +15,7 @@ export const handleNext = (index, questionData, points, totalpoints, setIndex, s
             navigation.navigate('ResultScreen', { totalpoints: totalpoints + points });
             setTotalPoints(0);
             setIndex(0);
-        }, 500);
+        }, 10);
 
     } else {
         setIndex(index + 1);
