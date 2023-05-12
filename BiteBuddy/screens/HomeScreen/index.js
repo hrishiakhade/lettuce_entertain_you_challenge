@@ -10,9 +10,13 @@ import { quizQuestions } from '../../utils/data.js';
 export const handleNext = (index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation) => {                  // seperate function for handleNext to make it easier to test
     setTotalPoints(totalpoints + points);
     if (index === questionData.length - 1) {
-        navigation.navigate('ResultScreen', { totalpoints: totalpoints + points });
-        setTotalPoints(0);
-        setIndex(0);
+
+        setTimeout(() => {
+            navigation.navigate('ResultScreen', { totalpoints: totalpoints + points });
+            setTotalPoints(0);
+            setIndex(0);
+        }, 500);
+
     } else {
         setIndex(index + 1);
     }
