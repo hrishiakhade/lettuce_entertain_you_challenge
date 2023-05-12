@@ -1,9 +1,19 @@
 # Restaurant Recommendation Quiz App
  This is a mobile application that presents users with a quiz comprising six questions. Based on the user's answers, the application calculates the total points and recommends a restaurant from a predefined list. The application is designed for mobile devices and has been thoroughly tested for stress cases.This is my submission to Mobile Developer Coding Challenge 2023 at Lettuce Entertain You .
 
-## Screenshots (Optional)
-[Add screenshots of your application's UI to provide a visual representation]
+## Screenshots
 
+
+### 1.HomeScreen  
+<div align="center">
+  <img src="https://github.com/hrishiakhade/lettuce_entertain_you_challenge/assets/20705523/c4b3c3de-753b-4c7d-8f0e-53ed84610974" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/hrishiakhade/lettuce_entertain_you_challenge/assets/20705523/ca88194d-1624-4f3a-9ab5-42e224dfbeb1" alt="Screenshot 2" width="200"/>
+</div>
+
+### Result Screen  
+<div align="center">
+  <img src="https://github.com/hrishiakhade/lettuce_entertain_you_challenge/assets/20705523/9ccdc705-0b4d-49cd-8f48-c15961be6471" alt="Screenshot 1" width="200"/>
+</div>
 
 ## Features
 
