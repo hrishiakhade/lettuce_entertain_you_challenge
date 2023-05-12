@@ -1,7 +1,8 @@
 import React from 'react';
-import { StyleSheet, View, Text, Pressable } from 'react-native';
+import { StyleSheet, View, Text, Pressable, ImageBackground } from 'react-native';
 import { calculateRecommendation } from '../../model/restaurant';
 import { APP_STRINGS, COLORS } from '../../utils/constants';
+import RestaurantBackground from '../../assets/result_background.jpg';
 
 const ResultScreen = ({ route, navigation }) => {
     const { totalpoints } = route.params;
@@ -11,61 +12,62 @@ const ResultScreen = ({ route, navigation }) => {
     }
 
     return (
-        <View style={styles.container}>
-            <View style={styles.header}>
-                <Text style={styles.title}>{APP_STRINGS.result_title}</Text>
+        <ImageBackground style={styles.container} source={RestaurantBackground} >
+            <View style={styles.contentContainer}>
+                    <Text style={styles.title}>{APP_STRINGS.result_title}</Text>
+                <View style={styles.resultContainer}>
+                    <Text style={styles.resultText}>{APP_STRINGS.result_subtitle}</Text>
+                    <Text style={styles.resultName}>{calculateRecommendation(totalpoints)}</Text>
+                </View>
+                <Pressable
+                    testID="restartButton"
+                    style={({ pressed }) => [
+                        styles.button,
+                        {
+                            backgroundColor: pressed ? COLORS.button_pressed : COLORS.button_unpressed,
+                            transform: [{ scale: pressed ? 0.95 : 1 }]
+                        }
+                    ]} onPress={handleRestartPress}>
+                    <Text style={styles.buttonText}>{APP_STRINGS.restart_button}</Text>
+                </Pressable>
             </View>
-            <View style={styles.resultContainer}>
-                <Text style={styles.resultText}>{APP_STRINGS.result_subtitle}</Text>
-                <Text style={styles.resultName}>{calculateRecommendation(totalpoints)}</Text>
-            </View>
-            <Pressable style={({ pressed }) => [
-                styles.button,
-                {
-                    backgroundColor: pressed ? COLORS.button_pressed : COLORS.button_unpressed,
-                    transform: [{ scale: pressed ? 0.95 : 1 }]
-                }
-            ]} onPress={handleRestartPress}>
-                <Text style={styles.buttonText}>{APP_STRINGS.restart_button}</Text>
-            </Pressable>
-        </View>
+        </ImageBackground>
     );
 };
 
 const styles = StyleSheet.create({
     container: {
         flex: 1,
+        resizeMode: 'cover',
+    },
+    contentContainer: {
+        flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-    },
-    header: {
-        alignSelf: 'stretch',
-        backgroundColor: COLORS.result_text,
-        paddingVertical: 20,
-        paddingHorizontal: 10,
+        padding: 20,
+        backgroundColor: 'rgba(0, 0, 0, 0.6)', // Add a semi-transparent dark overlay
     },
     title: {
-        textAlign: 'center',
         fontSize: 24,
         fontWeight: 'bold',
-        color: '#fff',
+        color: COLORS.button_text,
+        marginBottom: 20,
     },
     resultContainer: {
-        marginVertical: 30,
-        paddingHorizontal: 20,
+        marginBottom: 30,
         alignItems: 'center',
     },
     resultText: {
-        textAlign: 'center',
         fontSize: 20,
-        color: COLORS.primary,
+        color: COLORS.button_text,
+        textAlign: 'center',
         marginBottom: 10,
     },
     resultName: {
-        textAlign: 'center',
         fontSize: 24,
         fontWeight: 'bold',
         color: COLORS.result_text,
+        textAlign: 'center',
     },
     button: {
         paddingHorizontal: 20,
@@ -77,7 +79,7 @@ const styles = StyleSheet.create({
         color: COLORS.button_text,
         fontSize: 16,
         fontWeight: 'bold',
-    }
+    },
 });
 
 export default ResultScreen;

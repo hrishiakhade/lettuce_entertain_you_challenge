@@ -7,10 +7,37 @@ import { calculateRecommendation } from '../../model/restaurant';
 import { APP_STRINGS } from '../../utils/constants';
 import { quizQuestions } from '../../utils/data.js';
 
+
+
+export const handleNext = (index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation) => {                  // seperate function for handleNext to make it easier to test
+    setTotalPoints(totalpoints + points);
+    if (index === questionData.length - 1) {
+        navigation.navigate('ResultScreen', { totalpoints: totalpoints+points });
+        setTotalPoints(0);
+        setIndex(0);
+    } else {
+        setIndex(index + 1);
+    }
+};
+
 const HomeScreen = ({ navigation }) => {
     const [index, setIndex] = useState(0);
     const [questionData, setQuestionData] = useState(quizQuestions);
     const [totalpoints, setTotalPoints] = useState(0);
+
+    // const handleNext = (points) => {
+    //     setTotalPoints(totalpoints + points);
+    //     if (index === questionData.length - 1) {
+    //         navigation.navigate('ResultScreen', { totalpoints: totalpoints });
+    //         // Alert.alert('Your recommendation is: ' + calculateRecommendation(totalpoints + points));
+    //         setTotalPoints(0);
+    //         setIndex(0);
+    //     } else {
+    //         setIndex(index + 1);
+    //     }
+    // }
+
+
 
     return (
         <SafeAreaView style={styles.container}>
@@ -23,17 +50,10 @@ const HomeScreen = ({ navigation }) => {
                     <Cards
                         questionData={questionData[index]}
                         isLastQuestion={index === questionData.length - 1}
-                        handleNext={(points) => {
-                            setTotalPoints(totalpoints + points);
-                            if (index === questionData.length - 1) {
-                                navigation.navigate('ResultScreen', { totalpoints: totalpoints });
-                                // Alert.alert('Your recommendation is: ' + calculateRecommendation(totalpoints + points));
-                                setTotalPoints(0);
-                                setIndex(0);
-                            } else {
-                                setIndex(index + 1);
-                            }
-                        }} />
+                        // handleNext={handleNext} 
+                        handleNext={(points) => handleNext(index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation)}
+
+                    />
                 </View>
             </ImageBackground>
         </SafeAreaView>

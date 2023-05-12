@@ -1,0 +1,3101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 1`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 2`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 3`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 4`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 5`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 6`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 7`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 8`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 9`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 10`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 11`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 12`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 13`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 14`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 15`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 16`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 17`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 18`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 19`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 20`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 21`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 22`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 23`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 24`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 25`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 26`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 27`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 28`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 29`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 30`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 31`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 32`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 33`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 34`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 35`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 36`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 37`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 38`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 39`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 40`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 41`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 42`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 43`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 44`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 45`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 46`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 47`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 48`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 49`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 50`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 51`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 52`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 53`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 54`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 55`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 56`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 57`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 58`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 59`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 60`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 61`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 62`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 63`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 64`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 65`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 66`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 67`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 68`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 69`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 70`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 71`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 72`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 73`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 74`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 75`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 76`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 77`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 78`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 79`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 80`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 81`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 82`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 83`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 84`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 85`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 86`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 87`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 88`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 89`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 90`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 91`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 92`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 93`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 94`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 95`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 96`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 97`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 98`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 99`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;
+
+exports[`Header Stress Testing renders title and subtitle correctly for multiple instances 100`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 48,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    QUIZ
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    Take our soup quiz to
+ find out what soup you
+ should have for dinner.
+  </Text>
+</View>
+`;

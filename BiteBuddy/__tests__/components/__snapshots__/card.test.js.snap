@@ -1,0 +1,843 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cards component renders next/submit button correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "#9DB2BE",
+        "opacity": 1,
+        "transform": [
+          {
+            "scale": 1,
+          },
+        ],
+      },
+      {
+        "alignSelf": "center",
+        "borderRadius": 20,
+        "bottom": -25,
+        "paddingHorizontal": 40,
+        "paddingVertical": 10,
+        "position": "absolute",
+        "zIndex": 1,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#262624",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        },
+        {
+          "opacity": 1,
+        },
+      ]
+    }
+  >
+    NEXT QUESTION
+  </Text>
+</View>
+`;
+
+exports[`Cards component renders question and options correctly 1`] = `
+<View
+  style={
+    {
+      "borderColor": "#9DB2BE",
+      "borderWidth": 5,
+      "marginHorizontal": 20,
+      "marginTop": 30,
+      "minWidth": 300,
+      "padding": 20,
+      "paddingBottom": 30,
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "color": "#262624",
+        "fontSize": 19,
+        "fontWeight": "600",
+        "textAlign": "center",
+      }
+    }
+  >
+    PICK A NETFLIX SHOW TO BINGE WATCH
+  </Text>
+  <View
+    style={
+      {
+        "backgroundColor": "#9DB2BE",
+        "height": 4,
+        "marginVertical": 20,
+      }
+    }
+  />
+  <View
+    accessibilityRole="radiogroup"
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="Stranger Things"
+        accessibilityRole="radio"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": false,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            false,
+            false,
+            undefined,
+          ]
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 16,
+                "paddingVertical": 8,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessibilityLiveRegion="polite"
+            accessibilityRole="radio"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": false,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            color="#9DB2BE"
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              [
+                {
+                  "overflow": "hidden",
+                },
+                false,
+                {
+                  "borderRadius": 18,
+                  "padding": 6,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "opacity": 0,
+                }
+              }
+            >
+              <Text />
+            </View>
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.15,
+                  "lineHeight": 24,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  false,
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "textAlign": "right",
+                  },
+                  {
+                    "color": "#262624",
+                    "fontSize": 19,
+                    "marginLeft": 5,
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            Stranger Things
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="The Crown"
+        accessibilityRole="radio"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": false,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            false,
+            false,
+            undefined,
+          ]
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 16,
+                "paddingVertical": 8,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessibilityLiveRegion="polite"
+            accessibilityRole="radio"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": false,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            color="#9DB2BE"
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              [
+                {
+                  "overflow": "hidden",
+                },
+                false,
+                {
+                  "borderRadius": 18,
+                  "padding": 6,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "opacity": 0,
+                }
+              }
+            >
+              <Text />
+            </View>
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.15,
+                  "lineHeight": 24,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  false,
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "textAlign": "right",
+                  },
+                  {
+                    "color": "#262624",
+                    "fontSize": 19,
+                    "marginLeft": 5,
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            The Crown
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="House of Cards"
+        accessibilityRole="radio"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": false,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            false,
+            false,
+            undefined,
+          ]
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 16,
+                "paddingVertical": 8,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessibilityLiveRegion="polite"
+            accessibilityRole="radio"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": false,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            color="#9DB2BE"
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              [
+                {
+                  "overflow": "hidden",
+                },
+                false,
+                {
+                  "borderRadius": 18,
+                  "padding": 6,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "opacity": 0,
+                }
+              }
+            >
+              <Text />
+            </View>
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.15,
+                  "lineHeight": 24,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  false,
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "textAlign": "right",
+                  },
+                  {
+                    "color": "#262624",
+                    "fontSize": 19,
+                    "marginLeft": 5,
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            House of Cards
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="Wednesday"
+        accessibilityRole="radio"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": false,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            false,
+            false,
+            undefined,
+          ]
+        }
+      >
+        <View
+          pointerEvents="none"
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 16,
+                "paddingVertical": 8,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessibilityLiveRegion="polite"
+            accessibilityRole="radio"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": false,
+                "disabled": false,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            color="#9DB2BE"
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              [
+                {
+                  "overflow": "hidden",
+                },
+                false,
+                {
+                  "borderRadius": 18,
+                  "padding": 6,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                {
+                  "opacity": 0,
+                }
+              }
+            >
+              <Text />
+            </View>
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.15,
+                  "lineHeight": 24,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  false,
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "textAlign": "right",
+                  },
+                  {
+                    "color": "#262624",
+                    "fontSize": 19,
+                    "marginLeft": 5,
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            Wednesday
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      [
+        {
+          "backgroundColor": "#ccc",
+          "opacity": 1,
+          "transform": [
+            {
+              "scale": 1,
+            },
+          ],
+        },
+        {
+          "alignSelf": "center",
+          "borderRadius": 20,
+          "bottom": -25,
+          "paddingHorizontal": 40,
+          "paddingVertical": 10,
+          "position": "absolute",
+          "zIndex": 1,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#262624",
+            "fontSize": 19,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          },
+          {
+            "opacity": 0.6,
+          },
+        ]
+      }
+    >
+      NEXT QUESTION
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Cards component renders question text correctly 1`] = `
+<Text
+  style={
+    {
+      "color": "#262624",
+      "fontSize": 19,
+      "fontWeight": "600",
+      "textAlign": "center",
+    }
+  }
+>
+  What is the first thing you reach for in the morning?
+</Text>
+`;
