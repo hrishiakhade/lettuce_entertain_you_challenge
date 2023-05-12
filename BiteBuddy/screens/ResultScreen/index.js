@@ -1,8 +1,8 @@
 import React from 'react';
-import { StyleSheet, View, Text, Pressable, ImageBackground } from 'react-native';
+import { ImageBackground, Pressable, StyleSheet, Text, View } from 'react-native';
+import RestaurantBackground from '../../assets/result_background.jpg';
 import { calculateRecommendation } from '../../model/restaurant';
 import { APP_STRINGS, COLORS } from '../../utils/constants';
-import RestaurantBackground from '../../assets/result_background.jpg';
 
 const ResultScreen = ({ route, navigation }) => {
     const { totalpoints } = route.params;
@@ -14,7 +14,7 @@ const ResultScreen = ({ route, navigation }) => {
     return (
         <ImageBackground style={styles.container} source={RestaurantBackground} >
             <View style={styles.contentContainer}>
-                    <Text style={styles.title}>{APP_STRINGS.result_title}</Text>
+                <Text style={styles.title}>{APP_STRINGS.result_title}</Text>
                 <View style={styles.resultContainer}>
                     <Text style={styles.resultText}>{APP_STRINGS.result_subtitle}</Text>
                     <Text style={styles.resultName}>{calculateRecommendation(totalpoints)}</Text>

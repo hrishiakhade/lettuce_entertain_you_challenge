@@ -3,7 +3,7 @@ import { ImageBackground, SafeAreaView, StyleSheet, View } from 'react-native';
 import BackgroundImage from '../../assets/pattern.jpg';
 import { Cards } from '../../components/card';
 import { Header } from '../../components/header';
-import { APP_STRINGS } from '../../utils/constants';
+import { APP_STRINGS, COLORS } from '../../utils/constants';
 import { quizQuestions } from '../../utils/data.js';
 
 
@@ -27,11 +27,10 @@ const HomeScreen = ({ navigation }) => {
 
     return (
         <SafeAreaView style={styles.container}>
-            {/* <StatusBar style="auto" /> */}
             <ImageBackground
-                style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}
+                style={styles.imageContainer}
                 source={BackgroundImage}>
-                <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+                <View style={styles.imageContainer}>
                     <Header title={APP_STRINGS.title} subtitle={APP_STRINGS.subtitle} />
                     <Cards
                         questionData={questionData[index]}
@@ -48,8 +47,14 @@ const HomeScreen = ({ navigation }) => {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1
-    }
+        flex: 1,
+        backgroundColor: COLORS.black
+    },
+    imageContainer: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
 });
 
 export default HomeScreen;

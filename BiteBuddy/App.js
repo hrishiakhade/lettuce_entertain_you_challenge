@@ -1,11 +1,11 @@
 import React from "react";
-import { StatusBar } from "react-native";
 import Navigation from "./navigation";
+import { StatusBar } from 'expo-status-bar';
 
 function App() {
   return (
     <>
-      <StatusBar barStyle={'default'} />
+      <StatusBar style="light" />
       <Navigation />
     </>
   );

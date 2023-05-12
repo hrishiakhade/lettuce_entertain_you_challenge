@@ -6,6 +6,7 @@ export const COLORS = {
     button_unpressed:'#0080ff',
     result_text :'#F6AE2D',
     button_text :'#fff',
+    black: '#000',
 }; // color constants used throughout the app
 
 export const FONT_SIZES = {
