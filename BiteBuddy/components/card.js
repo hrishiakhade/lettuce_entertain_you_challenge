@@ -56,6 +56,7 @@ export const Cards = ({ questionData, isLastQuestion, handleNext }) => {
                                 position="leading"
                                 labelStyle={styles.radioText}
                                 color={COLORS.secondary}
+                                mode="android"
                             />
                         </View>
                     );
