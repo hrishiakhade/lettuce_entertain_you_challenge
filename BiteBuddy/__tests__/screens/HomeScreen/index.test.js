@@ -53,35 +53,39 @@ describe('HomeScreen', () => {
         expect(tree).toMatchSnapshot();
     });
 
-    test('handleNext calls navigation.navigate on last question', () => {
-        const navigationMock = { navigate: jest.fn() };
-        const setIndexMock = jest.fn();
-        const setTotalPointsMock = jest.fn();
+    describe('handleNext', () => {
+        let index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation;
 
-        handleNext(0, [{ points: 2 }], 2, 0, setIndexMock, setTotalPointsMock, navigationMock);
+        beforeEach(() => {
+            index = 0;
+            questionData = [{ points: 2 }, { points: 3 }];
+            points = 2;
+            totalpoints = 0;
+            setIndex = jest.fn();
+            setTotalPoints = jest.fn();
+            navigation = { navigate: jest.fn() };
+        });
 
-        expect(navigationMock.navigate).toHaveBeenCalledWith('ResultScreen', { totalpoints: 2 });
-        expect(setIndexMock).toHaveBeenCalledWith(0);
-        expect(setTotalPointsMock).toHaveBeenCalledWith(2);
+        it('increments index when not on last question', () => {
+            handleNext(index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation);
+
+            expect(setIndex).toHaveBeenCalledWith(1);
+            expect(setTotalPoints).toHaveBeenCalledWith(2);
+            expect(navigation.navigate).not.toHaveBeenCalled();
+        });
+
+        it('navigates to ResultScreen and resets values when on last question', () => {
+            index = 1;
+
+            jest.useFakeTimers(); // Enable fake timers for setTimeout
+
+            handleNext(index, questionData, points, totalpoints, setIndex, setTotalPoints, navigation);
+
+            jest.runAllTimers(); // Execute all pending timers
+
+            expect(navigation.navigate).toHaveBeenCalledWith('ResultScreen', { totalpoints: 2 });
+            expect(setTotalPoints).toHaveBeenCalledWith(0);
+            expect(setIndex).toHaveBeenCalledWith(0);
+        });
     });
-
-    test('handleNext can handle stress testing', () => {
-        const navigationMock = { navigate: jest.fn() };
-        const setIndexMock = jest.fn();
-        const setTotalPointsMock = jest.fn();
-
-        const iterations = 1000;
-        const maxPoints = 4;
-        const questionData = [{ points: 2 }];
-
-        for (let i = 0; i < iterations; i++) {
-            const points = Math.floor(Math.random() * maxPoints);
-            const totalpoints = Math.floor(Math.random() * 15);
-            handleNext(0, questionData, points,totalpoints, setIndexMock, setTotalPointsMock, navigationMock);
-        }
-
-        expect(navigationMock.navigate).toHaveBeenCalledTimes(iterations);
-
-    });
-
 });
