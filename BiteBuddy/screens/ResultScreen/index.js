@@ -1,7 +1,7 @@
 import React from 'react';
 import { ImageBackground, Pressable, StyleSheet, Text, View } from 'react-native';
 import RestaurantBackground from '../../assets/result_background.jpg';
-import { calculateRecommendation } from '../../model/restaurant';
+import { calculateRecommendation } from '../../controller';
 import { APP_STRINGS, COLORS } from '../../utils/constants';
 
 const ResultScreen = ({ route, navigation }) => {

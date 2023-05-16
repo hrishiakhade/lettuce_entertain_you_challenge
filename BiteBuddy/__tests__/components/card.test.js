@@ -64,7 +64,7 @@ describe('Cards component', () => {
       ],
     };
 
-    const iterations = 100; // Number of iterations for stress testing
+    const iterations = 500; // Number of iterations for stress testing
 
     for (let i = 0; i < iterations; i++) {
       const component = renderer.create(<Cards questionData={questionData} />);
@@ -90,7 +90,7 @@ describe('Cards component', () => {
       ],
     };
 
-    const iterations = 100;
+    const iterations = 500;
 
     for (let i = 0; i < iterations; i++) {
       let component;

@@ -5,7 +5,7 @@ import { APP_STRINGS } from '../../utils/constants';
 
 describe('Header Stress Testing', () => {
   test('renders title and subtitle correctly for multiple instances', () => {
-    const numInstances = 100; // Number of instances to create
+    const numInstances = 500; // Number of instances to create
 
     for (let i = 0; i < numInstances; i++) {
       const title = APP_STRINGS.title;

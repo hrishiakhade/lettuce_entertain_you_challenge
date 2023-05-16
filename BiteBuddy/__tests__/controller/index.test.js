@@ -1,4 +1,4 @@
-import { calculateRecommendation } from '../../model/restaurant';
+import { calculateRecommendation } from '../../controller';
 
 describe('calculateRecommendation Stress Testing', () => {
   const testCases = [
